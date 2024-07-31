@@ -1,9 +1,3 @@
-using System.Data.Common;
-using System.Globalization;
-using System.Reflection.Metadata;
-using System.Text.RegularExpressions;
-using System.Xml.Serialization;
-
 namespace Lox;
 
 class Scanner
